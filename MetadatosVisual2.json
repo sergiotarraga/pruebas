@@ -1,8 +1,8 @@
 [
   {
     "VisualID": "MATRICULADOS_CURSO",
-    "Ancho": 500,
-    "Alto": 400,
+    "Ancho": 600,
+    "Alto": 200,
     "Titulo": "Matriculados por curso académico",
     "Subtitulo": "Evolución del número de matriculados",
     "ColorPrincipal": "#1F4E79",
