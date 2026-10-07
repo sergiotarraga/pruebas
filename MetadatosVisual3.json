@@ -1,0 +1,17 @@
+[
+  {
+    "VisualID": "MATRICULADOS_CURSO",
+    "Ancho": 1000,
+    "Alto": 800,
+    "Titulo": "Matriculados MÁSTER por curso académico",
+    "Subtitulo": "Evolución del número de matriculados",
+    "ColorPrincipal": "#1F4E79",
+    "ColorSecundario": "#808080",
+    "TamanoTitulo": 22,
+    "TamanoSubtitulo": 12,
+    "MargenSuperior": 80,
+    "MargenInferior": 48,
+    "MargenIzquierdo": 15,
+    "MargenDerecho": 15
+  }
+]
