@@ -1,0 +1,20 @@
+{
+  "Visuales": [
+    {
+      "VisualID": "MATRICULADOS_CENTRO",
+      "Ancho": 600,
+      "Alto": 400,
+      "Titulo": "Matriculados por Centro académico PRUEBAS METADATOS",
+      "Subtitulo": "Evolución del número de matriculados PRUEBAS....",
+      "ColorPrincipal": "#1F4E79",
+      "ColorSecundario": "#808080",
+	  "ColorIcono": "#1F4E79",
+      "TamanoTitulo": 20,
+      "TamanoSubtitulo": 12,
+      "MargenSuperior": 20,
+      "MargenInferior": 48,
+      "MargenIzquierdo": 15,
+      "MargenDerecho": 15
+    }
+  ]
+}
