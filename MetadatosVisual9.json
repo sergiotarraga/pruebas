@@ -1,0 +1,22 @@
+{
+  "Visuales": [
+    {
+      "VisualID": "MATRICULADOS_CENTRO",
+      "Ancho": 700,
+      "Alto": 500,
+      "Titulo": "Matriculados por Centro académico PRUEBAS METADATOS",
+      "Subtitulo": "Evolución del número de matriculados PRUEBAS y llamada metadatos iconos",
+      "ColorPrincipal": "#1F4E79",
+      "ColorSecundario": "#808080",
+	  "ColorIcono": "#1F4E79",
+      "TamanoTitulo": 20,
+      "TamanoSubtitulo": 12,
+      "MargenSuperior": 20,
+      "MargenInferior": 48,
+      "MargenIzquierdo": 15,
+      "MargenDerecho": 15,
+	  "DireccionURLIconosSVG": "https://raw.githubusercontent.com/sergiotarraga/pruebas/refs/heads/main/MetadatosSVG.json",
+	  "DireccionURLIconosPNG": "https://raw.githubusercontent.com/sergiotarraga/pruebas/refs/heads/main/MetadatosPNG.json"
+    }
+  ]
+}
