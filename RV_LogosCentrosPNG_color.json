@@ -1,0 +1,44 @@
+{
+  "Iconos": [
+    {
+      "Centro": "ETSIA",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/ETSIA_color.png"
+    },
+    {
+      "Centro": "ETSII",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/ETSII_color.png"
+    },
+    {
+      "Centro": "ETSINO",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/ETSINO_color.png"
+    },
+    {
+      "Centro": "ETSIT",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/ETSIT_color.png"
+    },
+    {
+      "Centro": "FCCE",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/FCCE_color.png"
+    },
+    {
+      "Centro": "EICM",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/EICM_color.png"
+    },
+    {
+      "Centro": "ETSAE",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/ETSAE_color.png"
+    },
+    {
+      "Centro": "CUD",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/CUD_color.png"
+    },
+    {
+      "Centro": "EINDOC",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/EINDOC_color.png"
+    },
+    {
+      "Centro": "ENAE-Tech",
+      "IconoURL": "https://raw.githubusercontent.com/sergiotarraga/imagenes/refs/heads/main/ENAE-color.png"
+    }
+  ]
+}
