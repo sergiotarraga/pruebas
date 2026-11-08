@@ -1,0 +1,38 @@
+{
+  "Visuales": [
+    {
+      "VisualID": "MATRICULADOS_CENTRO",
+      "Ancho": 800,
+      "Alto": 600,
+      "ColorPrincipal": "#04466a",
+      "ColorSecundario": "#808080",
+	  "ColorDesactivado": "#333333", 
+	  "ColorItem1": "#96c3d2",
+	  "ColorItem2": "#6b8bb4",
+	  "ColorItem3": "#04466a",
+	  "ColorItem4": "#85a1b2",
+	  "ColorItem5": "#94d1f1",
+	  "ColorItem6": "#96c3d2",
+	  "ColorIcono": "#04466a",
+	  "ColorTitulo": "#000000",
+      "TamanoTitulo": 20,
+      "TamanoSubtitulo": 14,
+	  "TamanoTextoBotones": 12,
+	  "TamanoTextoLeyenda": 10,
+	  "TamanoTotales": 14,
+	  "TamanoSubtotales": 10,
+	  "TamanoEtiquetasX": 12,
+      "MargenSuperior": 20,
+      "MargenInferior": 48,
+      "MargenIzquierdo": 15,
+      "MargenDerecho": 15,
+	  "DireccionURLIconosSVG": "https://raw.githubusercontent.com/sergiotarraga/pruebas/refs/heads/main/RV_LogosCentrosSVG.json",
+	  "DireccionURLIconosSVG2": "https://raw.githubusercontent.com/sergiotarraga/pruebas/refs/heads/main/RV_LogosCentrosSVG2.json",
+	  "DireccionURLIconosPNG": "https://raw.githubusercontent.com/sergiotarraga/pruebas/refs/heads/main/RV_LogosCentrosPNG_color.json",
+	  "DireccionURLIconosPNG1": "https://raw.githubusercontent.com/sergiotarraga/pruebas/refs/heads/main/RV_LogosCentrosPNG_mono1.json",
+	  "DireccionURLIconosPNG2": "https://raw.githubusercontent.com/sergiotarraga/pruebas/refs/heads/main/RV_LogosCentrosPNG_mono2.json",
+	  "DireccionURLIconosPNG3": "https://raw.githubusercontent.com/sergiotarraga/pruebas/refs/heads/main/RV_LogosCentrosPNG_mono3.json",
+	  "DireccionURLIconosBotones": "https://raw.githubusercontent.com/sergiotarraga/pruebas/refs/heads/main/RV_IconosSVG.json"
+    }
+  ]
+}
